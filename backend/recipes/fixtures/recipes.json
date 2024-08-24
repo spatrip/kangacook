@@ -1,0 +1,317 @@
+[
+    {
+        "model": "recipes.recipe",
+        "pk": 1,
+        "fields": {
+            "title": "Spaghetti Carbonara",
+            "ingredients": "Spaghetti, eggs, Parmesan cheese, pancetta, garlic, black pepper, salt.",
+            "instructions": "1. Cook spaghetti. 2. Cook pancetta and garlic. 3. Mix eggs and cheese. 4. Combine all and serve."
+        }
+    },
+    {
+        "model": "recipes.recipe",
+        "pk": 2,
+        "fields": {
+            "title": "Chicken Curry",
+            "ingredients": "Chicken, curry powder, onion, garlic, ginger, coconut milk, tomatoes.",
+            "instructions": "1. Sauté onion, garlic, and ginger. 2. Add chicken and curry powder. 3. Add tomatoes and coconut milk. 4. Simmer and serve."
+        }
+    },
+    {
+        "model": "recipes.recipe",
+        "pk": 3,
+        "fields": {
+            "title": "Caesar Salad",
+            "ingredients": "Romaine lettuce, Caesar dressing, croutons, Parmesan cheese.",
+            "instructions": "1. Toss lettuce with dressing. 2. Add croutons and cheese. 3. Serve immediately."
+        }
+    },
+    {
+        "model": "recipes.recipe",
+        "pk": 4,
+        "fields": {
+            "title": "Beef Tacos",
+            "ingredients": "Ground beef, taco seasoning, tortillas, lettuce, cheese, salsa.",
+            "instructions": "1. Cook beef with seasoning. 2. Fill tortillas with beef and toppings. 3. Serve with salsa."
+        }
+    },
+    {
+        "model": "recipes.recipe",
+        "pk": 5,
+        "fields": {
+            "title": "Vegetable Stir-Fry",
+            "ingredients": "Mixed vegetables, soy sauce, garlic, ginger, rice.",
+            "instructions": "1. Stir-fry vegetables with garlic and ginger. 2. Add soy sauce. 3. Serve with rice."
+        }
+    },
+    {
+        "model": "recipes.recipe",
+        "pk": 6,
+        "fields": {
+            "title": "Chocolate Chip Cookies",
+            "ingredients": "Flour, sugar, butter, chocolate chips, eggs, baking soda.",
+            "instructions": "1. Mix ingredients. 2. Form into balls and bake. 3. Cool before serving."
+        }
+    },
+    {
+        "model": "recipes.recipe",
+        "pk": 7,
+        "fields": {
+            "title": "Margherita Pizza",
+            "ingredients": "Pizza dough, tomato sauce, mozzarella cheese, basil.",
+            "instructions": "1. Spread sauce on dough. 2. Add cheese and basil. 3. Bake until crispy."
+        }
+    },
+    {
+        "model": "recipes.recipe",
+        "pk": 8,
+        "fields": {
+            "title": "Greek Salad",
+            "ingredients": "Cucumber, tomatoes, olives, feta cheese, red onion, olive oil.",
+            "instructions": "1. Toss all ingredients together. 2. Serve chilled."
+        }
+    },
+    {
+        "model": "recipes.recipe",
+        "pk": 9,
+        "fields": {
+            "title": "Chicken Alfredo",
+            "ingredients": "Chicken, fettuccine, Alfredo sauce, Parmesan cheese.",
+            "instructions": "1. Cook chicken and fettuccine. 2. Mix with Alfredo sauce. 3. Top with Parmesan."
+        }
+    },
+    {
+        "model": "recipes.recipe",
+        "pk": 10,
+        "fields": {
+            "title": "Pancakes",
+            "ingredients": "Flour, milk, eggs, sugar, baking powder, butter.",
+            "instructions": "1. Mix ingredients. 2. Cook on griddle. 3. Serve with syrup."
+        }
+    },
+    {
+        "model": "recipes.recipe",
+        "pk": 11,
+        "fields": {
+            "title": "Beef Stroganoff",
+            "ingredients": "Beef, mushrooms, sour cream, onion, beef broth.",
+            "instructions": "1. Cook beef and onions. 2. Add mushrooms and broth. 3. Stir in sour cream and serve."
+        }
+    },
+    {
+        "model": "recipes.recipe",
+        "pk": 12,
+        "fields": {
+            "title": "Chicken Caesar Wrap",
+            "ingredients": "Chicken, Caesar dressing, lettuce, tortilla.",
+            "instructions": "1. Cook chicken and mix with Caesar dressing. 2. Place on tortilla with lettuce. 3. Roll up and serve."
+        }
+    },
+    {
+        "model": "recipes.recipe",
+        "pk": 13,
+        "fields": {
+            "title": "Quiche Lorraine",
+            "ingredients": "Pie crust, eggs, cream, bacon, Swiss cheese, onions.",
+            "instructions": "1. Pre-bake crust. 2. Mix eggs, cream, cheese, and bacon. 3. Pour into crust and bake."
+        }
+    },
+    {
+        "model": "recipes.recipe",
+        "pk": 14,
+        "fields": {
+            "title": "Vegetable Soup",
+            "ingredients": "Mixed vegetables, vegetable broth, garlic, onions.",
+            "instructions": "1. Sauté onions and garlic. 2. Add vegetables and broth. 3. Simmer until vegetables are tender."
+        }
+    },
+    {
+        "model": "recipes.recipe",
+        "pk": 15,
+        "fields": {
+            "title": "Tiramisu",
+            "ingredients": "Mascarpone cheese, coffee, ladyfingers, sugar, cocoa powder.",
+            "instructions": "1. Mix mascarpone with sugar. 2. Layer ladyfingers dipped in coffee. 3. Top with mascarpone and cocoa powder."
+        }
+    },
+    {
+        "model": "recipes.recipe",
+        "pk": 16,
+        "fields": {
+            "title": "Beef Chili",
+            "ingredients": "Ground beef, kidney beans, tomatoes, chili powder, onions.",
+            "instructions": "1. Cook beef with onions. 2. Add beans, tomatoes, and chili powder. 3. Simmer and serve."
+        }
+    },
+    {
+        "model": "recipes.recipe",
+        "pk": 17,
+        "fields": {
+            "title": "Shrimp Scampi",
+            "ingredients": "Shrimp, garlic, lemon, butter, white wine, parsley.",
+            "instructions": "1. Sauté shrimp with garlic and butter. 2. Add lemon juice and wine. 3. Garnish with parsley and serve."
+        }
+    },
+    {
+        "model": "recipes.recipe",
+        "pk": 18,
+        "fields": {
+            "title": "Falafel",
+            "ingredients": "Chickpeas, garlic, onions, cumin, coriander, flour.",
+            "instructions": "1. Blend chickpeas with spices and form into balls. 2. Fry until golden brown. 3. Serve with pita and salad."
+        }
+    },
+    {
+        "model": "recipes.recipe",
+        "pk": 19,
+        "fields": {
+            "title": "Lemonade",
+            "ingredients": "Lemons, sugar, water.",
+            "instructions": "1. Mix lemon juice with sugar and water. 2. Chill and serve over ice."
+        }
+    },
+    {
+        "model": "recipes.recipe",
+        "pk": 20,
+        "fields": {
+            "title": "Chicken Noodle Soup",
+            "ingredients": "Chicken, noodles, carrots, celery, chicken broth.",
+            "instructions": "1. Cook chicken and vegetables. 2. Add broth and noodles. 3. Simmer until noodles are tender."
+        }
+    },
+    {
+        "model": "recipes.recipe",
+        "pk": 21,
+        "fields": {
+            "title": "Grilled Cheese Sandwich",
+            "ingredients": "Bread, cheese, butter.",
+            "instructions": "1. Butter bread and add cheese. 2. Grill until golden brown and cheese is melted."
+        }
+    },
+    {
+        "model": "recipes.recipe",
+        "pk": 22,
+        "fields": {
+            "title": "Mushroom Risotto",
+            "ingredients": "Arborio rice, mushrooms, chicken broth, Parmesan cheese, onions.",
+            "instructions": "1. Sauté onions and mushrooms. 2. Add rice and broth gradually. 3. Stir in Parmesan and serve."
+        }
+    },
+    {
+        "model": "recipes.recipe",
+        "pk": 23,
+        "fields": {
+            "title": "Pesto Pasta",
+            "ingredients": "Pasta, pesto sauce, Parmesan cheese.",
+            "instructions": "1. Cook pasta. 2. Mix with pesto sauce and Parmesan."
+        }
+    },
+    {
+        "model": "recipes.recipe",
+        "pk": 24,
+        "fields": {
+            "title": "Apple Pie",
+            "ingredients": "Apples, sugar, pie crust, cinnamon.",
+            "instructions": "1. Fill pie crust with apples and sugar. 2. Top with crust and bake until golden brown."
+        }
+    },
+    {
+        "model": "recipes.recipe",
+        "pk": 25,
+        "fields": {
+            "title": "Chicken Parmesan",
+            "ingredients": "Chicken breasts, marinara sauce, mozzarella cheese, Parmesan cheese.",
+            "instructions": "1. Bread and bake chicken. 2. Top with marinara and cheese. 3. Bake until cheese is melted."
+        }
+    },
+    {
+        "model": "recipes.recipe",
+        "pk": 26,
+        "fields": {
+            "title": "Tacos",
+            "ingredients": "Ground beef, taco shells, lettuce, cheese, salsa.",
+            "instructions": "1. Cook beef with seasoning. 2. Fill taco shells with beef and toppings."
+        }
+    },
+    {
+        "model": "recipes.recipe",
+        "pk": 27,
+        "fields": {
+            "title": "Chocolate Cake",
+            "ingredients": "Flour, cocoa powder, sugar, eggs, butter.",
+            "instructions": "1. Mix ingredients and bake. 2. Cool and frost with chocolate icing."
+        }
+    },
+    {
+        "model": "recipes.recipe",
+        "pk": 28,
+        "fields": {
+            "title": "Buffalo Wings",
+            "ingredients": "Chicken wings, hot sauce, butter, garlic powder.",
+            "instructions": "1. Bake or fry wings. 2. Toss with hot sauce and butter."
+        }
+    },
+    {
+        "model": "recipes.recipe",
+        "pk": 29,
+        "fields": {
+            "title": "Vegetable Curry",
+            "ingredients": "Mixed vegetables, curry powder, coconut milk.",
+            "instructions": "1. Sauté vegetables with curry powder. 2. Add coconut milk and simmer."
+        }
+    },
+    {
+        "model": "recipes.recipe",
+        "pk": 30,
+        "fields": {
+            "title": "S'mores",
+            "ingredients": "Graham crackers, marshmallows, chocolate.",
+            "instructions": "1. Sandwich chocolate and marshmallows between graham crackers. 2. Toast marshmallows and serve."
+        }
+    },
+    {
+        "model": "recipes.recipe",
+        "pk": 31,
+        "fields": {
+            "title": "Pork Stir-Fry",
+            "ingredients": "Pork, bell peppers, soy sauce, garlic, ginger.",
+            "instructions": "1. Stir-fry pork with garlic and ginger. 2. Add vegetables and soy sauce."
+        }
+    },
+    {
+        "model": "recipes.recipe",
+        "pk": 32,
+        "fields": {
+            "title": "Fried Rice",
+            "ingredients": "Rice, eggs, vegetables, soy sauce.",
+            "instructions": "1. Sauté vegetables and eggs. 2. Add rice and soy sauce."
+        }
+    },
+    {
+        "model": "recipes.recipe",
+        "pk": 33,
+        "fields": {
+            "title": "Lasagna",
+            "ingredients": "Lasagna noodles, ground beef, marinara sauce, cheese.",
+            "instructions": "1. Layer noodles with beef, sauce, and cheese. 2. Bake until bubbly."
+        }
+    },
+    {
+        "model": "recipes.recipe",
+        "pk": 34,
+        "fields": {
+            "title": "Grilled Salmon",
+            "ingredients": "Salmon fillets, lemon, olive oil, herbs.",
+            "instructions": "1. Marinate salmon in lemon and herbs. 2. Grill until cooked through."
+        }
+    },
+    {
+        "model": "recipes.recipe",
+        "pk": 35,
+        "fields": {
+            "title": "Fruit Smoothie",
+            "ingredients": "Mixed fruits, yogurt, honey.",
+            "instructions": "1. Blend fruits with yogurt and honey."
+        }
+    }
+]
